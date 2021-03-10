@@ -16,4 +16,4 @@ board state (using an evaluation function) and it tries to maximize
   Hence, it decides which move is the most "profitable" for him
 ## Game Preview: 
 
-![Game Table](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Game Table](https://github.com/teomdn01/Lava-Checkers/blob/main/readme%20images/table.png)
