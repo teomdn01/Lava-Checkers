@@ -2,7 +2,7 @@
  
  - Python based version of the checkers game
 
-## Used conepts
+## Used concepts
 - Model-View-Controller Layered Architecture
 - Graphical User Interface
 - Console User Interface
