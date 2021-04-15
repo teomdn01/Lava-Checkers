@@ -7,7 +7,7 @@
 - Graphical User Interface
 - Console User Interface
 - AI - Implemented using the MiniMax Algorithm
-- UnitTesting (>90% converage for all functionalities)
+- UnitTesting (>90% coverage for all functionalities)
 
 ## AI implementation description
 - The AI analyses every possible move from the current
